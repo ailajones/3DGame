@@ -12,3 +12,8 @@ https://polyhaven.com/a/rocks_ground_02
 - My game is a VERY simple nature based obby, inclcluding navigating (I uswe that word lighly) a forest, jumping between moving mushrooms, and balancing on logs.
 
 - I changed the height of the player to make the POV feel a little more natural, and adjusted the jump force and gravity for more realistic jumping. I also increased the characters speed.
+
+- Screenshot:
+
+- <img width="1214" height="635" alt="Screenshot 2026-02-04 at 10 23 34 PM" src="https://github.com/user-attachments/assets/6df3f294-22e4-48db-8108-d6f5b8ebe513" />
+
